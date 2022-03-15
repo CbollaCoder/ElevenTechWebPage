@@ -152,7 +152,8 @@ header {
 
 .img-galeria {
   object-fit: cover;
-  width: 30%;
+  width: 300px;
+  height: 300px;
   display: block;
   margin-bottom: 15px;
   box-shadow: 0 0 6px rgba(0, 0, 0, 0.5);
