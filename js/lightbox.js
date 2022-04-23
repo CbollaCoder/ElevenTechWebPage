@@ -1,4 +1,4 @@
-const imagenes = document.querySelectorAll('.img-galeria')
+/*const imagenes = document.querySelectorAll('.img-galeria')
 const imagenesLight = document.querySelector('.agregar-imagen')
 const contenedorLight = document.querySelector('.imagen-light')
 const hamburger1 = document.querySelector('.hamburger');
@@ -23,4 +23,4 @@ const aparecerImagen = (imagen)=>{
     imagenesLight.classList.toggle('showImage')
     hamburger1.style.opacity = '0'
 
-}
+}*/
